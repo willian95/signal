@@ -1,0 +1,150 @@
+
+V11770155       Sánchez                      Lugo                        Erika                         Valle                                                    f2BLANQUITA DE PEREZ, CALLE LAS PALMAS CASA # 05                                                                                                                           FALCON
+
+V10965508       Alvarez                       Mota                        Martha                        Helena                                                   f3CIUDAD FEDERACION MANZANA 6 CASA # 93                                                                                                                                    FALCON
+
+V18447507       Lugo                          Reyes                       Yeniree                       Carolina                                                 f1URB. JORGE HERNANDEZ, SECTOR 4, VEREDA 2, CASA # 26                                                                                                                      FALCON
+
+V21155792       García                       Navas                       Mariela                       Mercedes                                                 f1CALLE NUEVA GRANADA, SECTOR TROPICANA, CASA NRO. 10                                                                                                                      FALCON
+
+E84562935       Rondon                        Jimenez                     Yunier                        Jesús                                                   m2SECTOR BELLA VISTA, CALLE MIRANDA, CASA # 47                                                                                                                             FALCON
+
+V24596830       Pineda                        Ventura                     Wilmary                       Beatriz                                                  f1SECTOR ANDRES ELOY BLANCO CALLE PERU ENTRE DEMOCRACIA Y ALTAGRACIA NRO 38                                                                                                FALCON
+
+V14801654       Gomez                         Milano                      Jehnny                        Isabel                                                   f2RESIDENCIAS LA PUERTA EDIFICIO PUERTA V APARTAMENTO 2-B                                                                                                                  FALCON
+
+V22606755       Molina                        Villavicencio               Derbys                        Gerardo                                                  m1URBANIZACIÓN AULAR CASA N° 20 SECTOR LIBERTADOR                                                                                                                        FALCON
+
+V9587946        Vargas                        Borges                      Julio                         Segundo                                                  m2SECTOR LIBERTADOR, CALLE PRINCIPAL, CASA # 22                                                                                                                            FALCON
+
+V7568105        Carrasquero                   Morales                     Ali                           Ramón                                                   m2CALLE ZAMORA, ENTRE CALLE ARGENTINA Y PARAGUAY CASA # 204-2                                                                                                              FALCON
+
+V15982045       Gómez                        Romero                      Ben                           Oglibi                                                   m1PUEBLO NUEVO, SECTOR LOS POZOS, CALLE PRINCIPAL CASA S/N                                                                                                                 FALCON
+
+V3682850        Gutierrez                     López                      Francisco                     Argenis                                                  m1PUEBLO NUEVO, SECTOR LOS POZOS, CASA S/N                                                                                                                                 FALCON
+
+V10971088       Blanco                        Nuñez                      Elvia                         Ramona                                                   f2URBANIZACION CIUDAD FEDERACION SEGUNDA ETAPA MANZANA 4 CASA NO.430                                                                                                       FALCON
+
+V15141568       Ramírez                      Galicia                     Ender                         Antonio                                                  m2Buena Vista, prolongacion calle colina, casa S/N                                                                                                                         FALCON
+
+V4794038        Romero                        Velasquez                   Josefina                      Ramona                                                   f2COMUNIDAD CARDON AV. 13 CASA 4-60                                                                                                                                        FALCON
+
+V10965081       Di Franco                     Velasquez                                                Armandina                                                 f2PUERTA MARAVEN, AV. OLLARVIDES, CASA # 262                                                                                                                               FALCON
+
+V11765556       Vargas                        Velazco                     Elizabeth                     Carmen                                                   f2CIUDAD FEDERACIÓN, CASA 419, II ETAPA, MANZANA 4                                                                                                                        FALCON
+
+V10967233       Vargas                        Velazco                                                  Sor                                                       f2Punto Fijo                                                                                                                                                               FALCON
+
+V15644282       Goitia                        Ventura                     Yoyma                         Yanelys                                                  f2URB. SAN RAFAEL CASA S/N SECTOR EL CARDONAL                                                                                                                              FALCON
+
+V7572739        Forcucci                      Quintero                                                 Armando                                                   m1PUNTO FIJO, CALLE INDEPENDENCIA ENTRE CALLE AYACUCHO  Y PROGRESO, CASA # 29                                                                                              FALCON
+
+V16122173       Sánchez                      Guerrero                    Luis                          Ángel                                                   m2SECTOR CIUDAD FEDERACION, MANZANA 9, CASA # 131                                                                                                                          FALCON
+
+V15141592       Colina                        Reyes                       Franny                        Valle                                                    f2SECTOR CUJICANA, CALLE NUEVA GRANADA, CASA #  03                                                                                                                         FALCON
+
+V23586734       Martínez                     Ramirez                     Lisbeth                       Sarai                                                    f1PUNTA CARDON, CALLE LAS PALMAS, ENTRE CALLES ACOSTA Y ANDRES BELLO CASA S/N                                                                                              FALCON
+
+V20553414       Deleones                      Hidalgo                     Joan                          Jose                                                     m1AV. GIRARDOT, ESQUINA CALLE URDANETA 253                                                                                                                                 FALCON
+
+V18155448       Gutierrez                     Romero                      Yonnatan                      Jovanny                                                  m1PUEBLO NUEVO, SECTOR LOS POZOS, CASA S/N                                                                                                                                 FALCON
+
+V3251594        Arevalo                       Madriz                      Milagros                      Eglee                                                    f1URBANIZACION DOÑA EMILIA, CALLE 4, CASA 14                                                                                                                              FALCON
+
+V4794583        Díaz                         Sánchez                    Carmen                        Raquel                                                   f4PUNTO FIJO, CALLE CHILE, CASA # 31-A                                                                                                                                     FALCON
+
+V17135185       Velasquez                     Aguillón                   Leomil                        José                                                    m1LAS MARGARITAS, SECTOR 1, CALLE 1,  CASA # 16                                                                                                                            FALCON
+
+V14801678       Chirinos                      Sánchez                    Endys                         Javier                                                   m1URB. LAS MARGARITAS, SECTOR 01, VEREDA 16, CASA # 10                                                                                                                     FALCON
+
+V7498828        Rivero                        Vargas                      Adsony                        José                                                    m2LOS ROSALES, SECTOR III, AVENIDA 4, CASA # 12                                                                                                                            FALCON
+
+V12495222       Velazco                       Velazco                                                  Aldrin                                                    m2CASERIO SARINAO, CASA S/N                                                                                                                                                FALCON
+
+V7526334        Díaz                         Sánchez                    Manuel                        Felipe                                                   m2CALLE CHILE, ENTRE CALLE PROGRESO Y AYACUCHO, CASA # 34                                                                                                                  FALCON
+
+V17665744       Díaz                         Velasquez                   Humberto                      Rafael                                                   m2SECTOR INDUSTRIAL, CALLEJON UNO, CASA # 7                                                                                                                                FALCON
+
+V14479039       Arteaga                       Bermudez                    Carmen                        Antonia                                                  f2LA PITAHAYA MUNICIPIO FALCON                                                                                                                                             FALCON
+
+V15141952       Ramírez                      Ramírez                    Eulalio                       José                                                    m2SECTOR SABANA GRANDE, EL SABINO, CALLE PASEO BELEN CASA # 33                                                                                                             FALCON
+
+V7569163        Bueno                         Andazol                     María                        Mercedes                                                 f2URB. ANTIGUO AEROPUERTO, SECTOR 5, VEREDA 48, CASA # 03                                                                                                                  FALCON
+
+V9471276        Araque                        Gamez                                                    Sonia                                                     f1AVENIDA ALTAGRACIA CASA N° 133 SECTOR CENTRO PUNTO FIJO                                                                                                                 FALCON
+
+V9501067        Pinto                         Bermudez                    Alicia                        Lourdes                                                  f2SECTOR CUJICANA CALLE NUEVA GRANADA CASA S/N                                                                                                                             FALCON
+
+V14479991       Díaz                         Velasquez                   Anais                         Valle                                                    f2SECTOR INDUSTRIAL, CALLEJON UNO, CASA S/N                                                                                                                                FALCON
+
+V7499915        Padilla                       López                      Obdulia                       Josefina                                                 f1CASERIO SARINAO, CASA S/N                                                                                                                                                FALCON
+
+V7529645        Chirinos                      Chirinos                    Amarilys                      Josefina                                                 m1CALLE ALTAGRACIA, CASA NRO. 37. PUNTO FIJO                                                                                                                               FALCON
+
+V10085295       Mogollón Prieto                                          Rosa                          Asmira                                                   f2PUNTO FIJO, CALLEJON EL MILAGRO, ENTRE PROGRESO Y AYACUCHO CASA # 7                                                                                                      FALCON
+
+V9806164        Gómez                        Linares                     Ninoska                       Bisleive                                                 f2 URB.  JORGE HERNANDEZ, SECTOR 3, CASA # 15                                                                                                                              FALCON
+
+V7959716        Marquez                       Medina                      Pablo                         Ysmael                                                   m2PUNTA CARDON, SECTOR LA CANDELARIA, CALLE GUAICAIPURO, CASA # 5                                                                                                          FALCON
+
+V17499743       Díaz                         Acosta                      Orlando                       Jesús                                                   m2AVENIDA 14 # 2-109 MARAVEN                                                                                                                                               FALCON
+
+V20553820       Díaz                         Acosta                      José                         Gibrianny                                                m1JADACAQUIVA SECTOR VERDUN CASA S/N                                                                                                                                       FALCON
+
+V3829960        Díaz                         Acosta                      Santiago                      José                                                    m2VILLA DEL MAR LAS PIEDRAS NRO. 48                                                                                                                                        FALCON
+
+V10707965       Martínez                     Iturbe                      Yanira                        Judith                                                   f2BUENA VISTA, CALLE COMERCIO CASA S/N                                                                                                                                     FALCON
+
+V17177477       Medina                        Medina                      Luis                          Fernando                                                 m2URB. ANTIGUO AEROPUERTO, SECTOR 1, VEREDA 17, CASA # 24                                                                                                                  FALCON
+
+V11771453       Medina                        Medina                      Mahly                         Zuriely                                                  f4SECTOR CARIRUBANA, CALLE EL CASTILLITO, CASA NRO. 24                                                                                                                     FALCON
+
+V3392682        Arcaya                        Laguna                      Jose                          Antonio                                                  m2PUNTA CARDON SECTOR EL ESTADIUM, CALLE LAS PALMAS, CASA S/N                                                                                                              FALCON
+
+V8614833        Arcaya                        Laguna                      Wences                        Jesús                                                   m2MUNICIPIO LOS TAQUES SECTOR EL CERRO, CALLE LOS MIMINES, CASA # 12                                                                                                       FALCON
+
+V10967525       Acacio                        Reyes                       Robert                        José                                                    m3BUENA VISTA, SECTOR EL CALVARIO, CALLE ZAMORA, CASA S/N                                                                                                                  FALCON
+
+V10970324       Chirinos                      Gutierrez                   Jose                          Antonio                                                  m2SECTOR DOMINGO HURTADO, CALLE FEDERICO PEREZ, CASA N° 215                                                                                                               FALCON
+
+V13204507       Quintero                      Veroes                      Richard                       José                                                    m1URB. COLONIAL SECTOR LAS ADJUNTAS, SEC TOR LAS TERRAZAS, CASA # L-10                                                                                                     FALCON
+
+V15190336       Perozo                        García                                                  Carmen                                                    f2URB. ANTIGUO AEROPUERTO, CALLE 22, CASA #  9                                                                                                                             FALCON
+
+V20797797       Martínez                     Rojas                       María                                                                                 f1URB. PEDRO MANUEL ARCAYA, AVENIDA ESTE 5, CASA NRO. S2-12                                                                                                                FALCON
+
+V24705173       Manaure                       Musett                      Andrys                        Josué                                                   m1AV. PANAMA, NRO. 17, SECTOR ANDRÉS ELOY BLANCO                                                                                                                          FALCON
+
+V11771280       Díaz                         Atienzo                     Andreina                      María                                                   f2URB. ANTIGUO AEROPUERTO, SECTOR 3, VEREDA 37, CASA NRO. 07                                                                                                               FALCON
+
+V23851465       Ortega                        Perez                       Oriana                        Yulianlis                                                f1NUEVA JAYANA CASA NRO. 14 CALLE 02                                                                                                                                       FALCON
+
+V23525593       Velazco                       Rodriguez                   Yosselyn                      Andreina                                                 f1LA PITAHAYA, CALLE PRINCIPAL, CASA S/N                                                                                                                                   FALCON
+
+V10610571       Caldera                       Valles                      Aleide                        Jose                                                     m2Sector universitario calle Nueva Esparta                                                                                                                                 FALCON
+
+V24703023       Ollarves                      Ventura                     Juan                          Carlos                                                   m1URB. SOLIMAR, PUERTA MARAVEN, CASA NUMERO 2, CALLE ARCAYA                                                                                                                FALCON
+
+V23675448       Medina                        Zea                         Jesús                        Daniel                                                   m1CALLE PERU, SECTOR SANTA ROSA, CASA NRO. 23-A                                                                                                                            FALCON
+
+V24703889       Sanchez                       Gonzalez                    Evelianny                     Valle                                                    f1SECTOR UNIVERSITARIO CALLE CARABOBO CON ESQUINA JUAN CRISOSTOMO FALON                                                                                                    FALCON
+
+V14801655       Gomez                         Milano                      Johnny                        Oswaldo                                                  m1URB. NUEVA JAYANA, CALLE 2, MANZANA 4, CASA NRO. 14                                                                                                                      FALCON
+
+V18448967       Ortiz                         Alvarez                     Wilfredo                      Gregorio                                                 m1CALLE BOLIVAR CASA S/N, SECTOR NUEVO AMANECER, PUNTA CARDÓN                                                                                                             FALCON
+
+V21158239       Ortiz                         Alvarez                     Wilmer                        Jose                                                     m1los cabures del cardon calle principal casa s/n                                                                                                                          FALCON
+
+V20253940       Flores                        Loyo                        Daniel                        Santiago                                                 m1sector universitario calle 12 casa 14                                                                                                                                    FALCON
+
+V19944489       Díaz                         Díaz                       Jose                          Miguel                                                   m2Urbanizacion Ciudad Federacion                                                                                                                                           FALCON
+
+V20797956       San Luis                      Primera                     Mario                         Antonio                                                  m1Urb. Pedro Manuel Arcaya, calle Sur 3, casa nro. 217, Puerta Maraven                                                                                                     FALCON
+
+V20891427       Zambrano                      Gonzalez                    Betania                       Rosifre                                                  f1Urbanizacion Maria Auxiliadora Calle 4 casa s/n                                                                                                                          FALCON
+
+V14801427       Chourio                       Chirino                     Gismaldo                      Segundo                                                  m2Calle Punto Fijo esquina Juan Ampies Sector Universitario manzana 9 casa n°03                                                                                           FALCON
+
+V14227126       Lugo                          Revilla                     Maria                                                                                  f1Calle Buchivacoa esquina Avenida España n°19 Urbanizacion Paramo III Puerta Maraven                                                                                    FALCON
+
+V11801817       Chirinos                      Ollarves                    Nhorelys                      Elena                                                    f2Urbanizacion Maria Auxiliadora Avenida 4 Casa n°23                                                                                                                      FALCON
